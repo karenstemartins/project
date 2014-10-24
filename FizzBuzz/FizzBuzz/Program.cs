@@ -13,7 +13,7 @@ namespace fizzBuzz
             for (int i = 0; i < 100; i++)
             {
                 if (i % 3 == 0 && i % 5 == 0)
-                   System.Console.WriteLine("FizzBuzz123"); //comment
+                   System.Console.WriteLine("FizzBuzz"); //comment
                 else if (i % 3 == 0)
                    System.Console.WriteLine("Fizz321 ");
                 else if (i % 5 == 0)
